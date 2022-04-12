@@ -29,12 +29,12 @@
 								<!--begin::Navbar-->
 								<div class="d-flex align-items-stretch" id="kt_header_nav">
 
-<?php include 'layout/header/__menu.php' ?>
+<?php include '__menu.php' ?>
 
 								</div>
 								<!--end::Navbar-->
 
-<?php include 'layout/header/__topbar.php' ?>
+<?php include '__topbar.php' ?>
 
 							</div>
 							<!--end::Wrapper-->
